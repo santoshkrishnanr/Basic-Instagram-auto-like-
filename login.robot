@@ -20,10 +20,10 @@ login case
     Wait until Page Contains Element  xpath://html/body/div[1]/section/main/article/div[2]/div[1]/div/form/div[2]/div/label/input
     # for log in and password.
     ${email}  set variable  xpath://html/body/div[1]/section/main/article/div[2]/div[1]/div/form/div[2]/div/label/input
-    input text  ${email}  santaskrishna@gmail.com
+    input text  ${email}  *****************
 
     ${password}  set variable  xpath://html/body/div[1]/section/main/article/div[2]/div[1]/div/form/div[3]/div/label/input
-    input text  ${password}  letsdoletsdoit
+    input text  ${password} ***********
 
     click element  xpath://html/body/div[1]/section/main/article/div[2]/div[1]/div/form/div[4]
     sleep  6s
