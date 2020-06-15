@@ -33,6 +33,14 @@ robot -d results <file location/insta_v4.robot>.robot
 
  for example ''robot -d results PycharmProjects/instagram_v1/test_Suite/insta_v2.robot''
 
+### Upgraded to like Hashtag
+using the file [insta_v2.robot](https://github.com/santoshkrishnanr/Basic-Instagram-auto-like-/blob/hash_tag/insta_v2.robot) and [login.robot](https://github.com/santoshkrishnanr/Basic-Instagram-auto-like-/blob/hash_tag/login.robot)
+it selects a random hashtag provided in the list and starts liking the recent updated photos taking some random time to like, mimic human behavior. max/min likes and number of hashtag to be liked can also be entered.
+
+
+
 ### future work adding scheduler 
 
-by using at or corntab it can be scheduled to like photos automatically.
+by using "at" / corntab or jenkins it can be scheduled to like photos automatically.
+
+:Caution they are many instagram bots to do similar work. but this was created just for study purpose and make as undetectable as possible. 
