@@ -43,4 +43,4 @@ it selects a random hashtag provided in the list and starts liking the recent up
 
 by using "at" / corntab or jenkins it can be scheduled to like photos automatically.
 
-:Caution they are many instagram bots to do similar work. but this was created just for study purpose and make as undetectable as possible. 
+:Caution there are many instagram bots, to do similar work. But this was created just for study purpose and make as undetectable as possible and to get rid of instagram addiction. 
